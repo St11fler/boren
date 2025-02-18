@@ -405,24 +405,22 @@ body {
 .videos-section {
   background-color: #fff;
 }
-
 .videos-section h2 {
   text-align: center;
   margin-bottom: 1.5rem;
   font-size: 2.5rem;
 }
-
 .videos-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 1rem;
   justify-items: center;
 }
-
 .video-item iframe {
   width: 100%;
-  max-width: 500px;
-  height: 280px;
+  max-width: 267px;
+  height: 476px;
   border: none;
   border-radius: 8px;
 }
+
